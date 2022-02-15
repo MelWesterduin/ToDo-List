@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(252, 218, 224);
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+} 
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 30px;
+}
+
+.fa-trash-alt {
+cursor: pointer;
+display: inline;
+
+}
+
+.checkbox {
+    height: 15px;
+    width: 15px;
+}
+
+#submit-button {
+    cursor: pointer;
+}
